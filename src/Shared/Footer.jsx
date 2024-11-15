@@ -5,8 +5,8 @@ const Footer = () => {
     <footer className="w-full px-6 lg:px-12 py-[70px] flex flex-col gap-[20px]">
       <div className="flex justify-between w-full flex-wrap gap-[40px] md:gap-[30px] border-b border-[#B7B7B7] pb-[30px]">
         <div className="w-full md:w-[20%]">
-          <div className="-ml-5 -mt-8">
-            <Logo width="90px" height="90px" />
+          <div className="">
+            <Logo width="50px" height="50px" />
           </div>
 
           <p className="text-[16px] font-[400] leading-[24px] text-[#585858] mt-[10px]">

@@ -29,7 +29,7 @@ const OurService = () => {
         Our Services
       </h1>
 
-      <div style={{ textAlign: "center" }} className="w-full h-full">
+      <div style={{ textAlign: "center" }} className="w-full h-full mx-auto">
         <Swiper
           rewind={true}
           breakpoints={SliderBreakPoint}

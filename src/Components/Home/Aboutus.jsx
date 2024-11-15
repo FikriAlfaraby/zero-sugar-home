@@ -7,7 +7,7 @@ const Aboutus = () => {
       id="about"
       className="md:py-[40px] w-full grid-cols-1 grid lg:grid-cols-2"
     >
-      <img src="/aboutus-1.png" alt="image" className="w-full mx-auto" />
+      <img src="/tentang-kami.jpg" alt="image" className="w-full mx-auto" />
       <article className="bg-[#FBFBFB] p-[30px] md:p-[60px] flex flex-col justify-center">
         <h1 className="text-[40px] font-[700] leading-[60px]">Tentang Kami</h1>
         <p className="text-[16px] font-[400] leading-[24px] text-[#585858] mt-[5px] mb-[30px] w-[80%]">
