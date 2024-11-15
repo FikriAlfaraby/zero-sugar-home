@@ -43,7 +43,7 @@ const Hero = () => {
           <button
             className={`flex items-center gap-[5px] text-white border-b hover:text-primary transition-all duration-500 hover:border-primary group`}
           >
-            Know More{" "}
+            <a href="https://zero-sugar-app.vercel.app/sign-in">Know More </a>
             <GoArrowRight className="text-[1.2rem] group-hover:ml-[8px] transition-all duration-500 group-hover:text-primary" />
           </button>
         </div>

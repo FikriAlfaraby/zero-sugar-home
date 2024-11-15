@@ -81,7 +81,6 @@ const Navbar = ({ active }) => {
       </ul>
 
       <div className="flex items-center gap-[20px]">
-        <CiSearch className="text-[1.5rem] cursor-pointer" />
         <a
           href="https://zero-sugar-app.vercel.app/sign-in"
           className={`${styles.buttonPrimary}`}

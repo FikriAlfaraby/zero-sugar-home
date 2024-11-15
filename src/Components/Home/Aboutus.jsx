@@ -59,10 +59,6 @@ const Aboutus = () => {
             </h3>
           </div>
         </div>
-
-        <button className={`${styles.buttonPrimary} mt-[30px] w-fit`}>
-          Pelajari Lebih Lanjut
-        </button>
       </article>
     </section>
   );
