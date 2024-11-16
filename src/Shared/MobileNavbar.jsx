@@ -36,7 +36,6 @@ const MobileNavbar = ({ active }) => {
         <Logo width="20px" height="20px" />
 
         <div className="flex items-center gap-[16px]">
-          <CiSearch className="text-[1.5rem] cursor-pointer text-gray-600" />
           <AiOutlineMenu
             onClick={() => setIsSidebarOpen(true)}
             className="text-[1.6rem] text-gray-600"
