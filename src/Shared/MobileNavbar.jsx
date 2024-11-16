@@ -33,7 +33,7 @@ const MobileNavbar = ({ active }) => {
           shadow ? "shadow-lg" : ""
         }`}
       >
-        <Logo width="40px" height="40px" />
+        <Logo width="20px" height="20px" />
 
         <div className="flex items-center gap-[16px]">
           <CiSearch className="text-[1.5rem] cursor-pointer text-gray-600" />
